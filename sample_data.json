@@ -1,0 +1,273 @@
+{
+  "results": {
+    "data": {
+      "team": [
+        {
+          "name": "Arizona",
+          "nickname": "Cardinals",
+          "display_name": "Arizona",
+          "id": "45",
+          "conference": "National Football Conference",
+          "division": "West"
+        },
+        {
+          "name": "Atlanta",
+          "nickname": "Falcons",
+          "display_name": "Atlanta",
+          "id": "49",
+          "conference": "National Football Conference",
+          "division": "South"
+        },
+        {
+          "name": "Baltimore",
+          "nickname": "Ravens",
+          "display_name": "Baltimore",
+          "id": "48",
+          "conference": "American Football Conference",
+          "division": "North"
+        },
+        {
+          "name": "Buffalo",
+          "nickname": "Bills",
+          "display_name": "Buffalo",
+          "id": "53",
+          "conference": "American Football Conference",
+          "division": "East"
+        },
+        {
+          "name": "Carolina",
+          "nickname": "Panthers",
+          "display_name": "Carolina",
+          "id": "59",
+          "conference": "National Football Conference",
+          "division": "South"
+        },
+        {
+          "name": "Chicago",
+          "nickname": "Bears",
+          "display_name": "Chicago",
+          "id": "43",
+          "conference": "National Football Conference",
+          "division": "North"
+        },
+        {
+          "name": "Cincinnati",
+          "nickname": "Bengals",
+          "display_name": "Cincinnati",
+          "id": "41",
+          "conference": "American Football Conference",
+          "division": "North"
+        },
+        {
+          "name": "Cleveland",
+          "nickname": "Browns",
+          "display_name": "Cleveland",
+          "id": "60",
+          "conference": "American Football Conference",
+          "division": "North"
+        },
+        {
+          "name": "Dallas",
+          "nickname": "Cowboys",
+          "display_name": "Dallas",
+          "id": "56",
+          "conference": "National Football Conference",
+          "division": "East"
+        },
+        {
+          "name": "Denver",
+          "nickname": "Broncos",
+          "display_name": "Denver",
+          "id": "61",
+          "conference": "American Football Conference",
+          "division": "West"
+        },
+        {
+          "name": "Detroit",
+          "nickname": "Lions",
+          "display_name": "Detroit",
+          "id": "50",
+          "conference": "National Football Conference",
+          "division": "North"
+        },
+        {
+          "name": "Green Bay",
+          "nickname": "Packers",
+          "display_name": "Green Bay",
+          "id": "39",
+          "conference": "National Football Conference",
+          "division": "North"
+        },
+        {
+          "name": "Houston",
+          "nickname": "Texans",
+          "display_name": "Houston",
+          "id": "42",
+          "conference": "American Football Conference",
+          "division": "South"
+        },
+        {
+          "name": "Indianapolis",
+          "nickname": "Colts",
+          "display_name": "Indianapolis",
+          "id": "67",
+          "conference": "American Football Conference",
+          "division": "South"
+        },
+        {
+          "name": "Jacksonville",
+          "nickname": "Jaguars",
+          "display_name": "Jacksonville",
+          "id": "69",
+          "conference": "American Football Conference",
+          "division": "South"
+        },
+        {
+          "name": "Kansas City",
+          "nickname": "Chiefs",
+          "display_name": "Kansas City",
+          "id": "63",
+          "conference": "American Football Conference",
+          "division": "West"
+        },
+        {
+          "name": "LA Chargers",
+          "nickname": "Chargers",
+          "display_name": "Los Angeles",
+          "id": "47",
+          "conference": "American Football Conference",
+          "division": "West"
+        },
+        {
+          "name": "LA Rams",
+          "nickname": "Rams",
+          "display_name": "Los Angeles",
+          "id": "64",
+          "conference": "National Football Conference",
+          "division": "West"
+        },
+        {
+          "name": "Las Vegas",
+          "nickname": "Raiders",
+          "display_name": "Las Vegas",
+          "id": "66",
+          "conference": "American Football Conference",
+          "division": "West"
+        },
+        {
+          "name": "Miami",
+          "nickname": "Dolphins",
+          "display_name": "Miami",
+          "id": "65",
+          "conference": "American Football Conference",
+          "division": "East"
+        },
+        {
+          "name": "Minnesota",
+          "nickname": "Vikings",
+          "display_name": "Minnesota",
+          "id": "57",
+          "conference": "National Football Conference",
+          "division": "North"
+        },
+        {
+          "name": "NY Giants",
+          "nickname": "Giants",
+          "display_name": "New York",
+          "id": "55",
+          "conference": "National Football Conference",
+          "division": "East"
+        },
+        {
+          "name": "NY Jets",
+          "nickname": "Jets",
+          "display_name": "New York",
+          "id": "54",
+          "conference": "American Football Conference",
+          "division": "East"
+        },
+        {
+          "name": "New England",
+          "nickname": "Patriots",
+          "display_name": "New England",
+          "id": "44",
+          "conference": "American Football Conference",
+          "division": "East"
+        },
+        {
+          "name": "New Orleans",
+          "nickname": "Saints",
+          "display_name": "New Orleans",
+          "id": "70",
+          "conference": "National Football Conference",
+          "division": "South"
+        },
+        {
+          "name": "Philadelphia",
+          "nickname": "Eagles",
+          "display_name": "Philadelphia",
+          "id": "40",
+          "conference": "National Football Conference",
+          "division": "East"
+        },
+        {
+          "name": "Pittsburgh",
+          "nickname": "Steelers",
+          "display_name": "Pittsburgh",
+          "id": "46",
+          "conference": "American Football Conference",
+          "division": "North"
+        },
+        {
+          "name": "San Francisco",
+          "nickname": "49ers",
+          "display_name": "San Francisco",
+          "id": "58",
+          "conference": "National Football Conference",
+          "division": "West"
+        },
+        {
+          "name": "Seattle",
+          "nickname": "Seahawks",
+          "display_name": "Seattle",
+          "id": "52",
+          "conference": "National Football Conference",
+          "division": "West"
+        },
+        {
+          "name": "Tampa Bay",
+          "nickname": "Buccaneers",
+          "display_name": "Tampa Bay",
+          "id": "68",
+          "conference": "National Football Conference",
+          "division": "South"
+        },
+        {
+          "name": "Tennessee",
+          "nickname": "Titans",
+          "display_name": "Tennessee",
+          "id": "62",
+          "conference": "American Football Conference",
+          "division": "South"
+        },
+        {
+          "name": "Washington",
+          "nickname": "Football Team",
+          "display_name": "Washington",
+          "id": "51",
+          "conference": "National Football Conference",
+          "division": "East"
+        }
+      ]
+    },
+    "columns": {
+      "name": "name",
+      "nickname": "NickName",
+      "display_name": "display name",
+      "id": "id",
+      "conference": "conference",
+      "division": "division"
+    }
+  },
+  "hash": "a4e87214bbbc9fa71af4270c1bb5aa6a"
+}
